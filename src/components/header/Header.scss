@@ -1,0 +1,19 @@
+.header{
+    display:flex;
+    justify-content:space-between;
+    background-color: rgb(182, 230, 248);
+    align-items: center;
+    height: 60px;
+    padding: 0 20px; 
+
+&__logo{
+    h5{
+        color: black;
+        font-weight: 600;
+    }
+}
+.button{
+    background-color:  rgb(216, 242, 253);
+    color: black;
+}
+}
